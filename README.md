@@ -42,6 +42,6 @@ Since this is based on random draws, the probability will be slightly different 
 
 *Hint: Consider using the modules that are already imported at the top of `prob_calculator.py`. Do not initialize random seed within `prob_calculator.py`.*
 
-### Development
+### Run
 
-Write your code in `prob_calculator.py`. For development, you can use `main.py` to test your code. Click the "run" button and `main.py` will run.
+Write your code in `prob_calculator.py`. To run, you can use `main.py` to test your code. 
